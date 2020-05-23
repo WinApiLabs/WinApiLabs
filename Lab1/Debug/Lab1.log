@@ -1,0 +1,3 @@
+﻿  Lab1.cpp
+C:\Users\user\Documents\Solutions\LabsWinAPI\Lab1\Lab1.cpp(103,23): warning C4018: '<': signed/unsigned mismatch
+  Lab1.vcxproj -> C:\Users\user\Documents\Solutions\LabsWinAPI\Debug\Lab1.exe

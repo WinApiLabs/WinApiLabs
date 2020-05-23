@@ -1,0 +1,4 @@
+﻿  Lab4.cpp
+C:\Users\user\Documents\Solutions\LabsWinAPI\Lab4\Lab4.cpp(137,39): warning C4244: 'argument': conversion from 'int' to 'Gdiplus::REAL', possible loss of data
+C:\Users\user\Documents\Solutions\LabsWinAPI\Lab4\Lab4.cpp(137,16): warning C4244: 'argument': conversion from 'int' to 'Gdiplus::REAL', possible loss of data
+  Lab4.vcxproj -> C:\Users\user\Documents\Solutions\LabsWinAPI\Debug\Lab4.exe

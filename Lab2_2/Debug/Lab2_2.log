@@ -1,0 +1,4 @@
+﻿  Lab2_2.cpp
+C:\Users\user\Documents\Solutions\LabsWinAPI\Lab2_2\Lab2_2.cpp(68,9): warning C4101: 'pStop': unreferenced local variable
+C:\Users\user\Documents\Solutions\LabsWinAPI\Lab2_2\Lab2_2.cpp(66,9): warning C4101: 'szMessage': unreferenced local variable
+  Lab2_2.vcxproj -> C:\Users\user\Documents\Solutions\LabsWinAPI\Debug\Lab2_2.exe
